@@ -1,0 +1,14 @@
+uuid: 46d113c7-c1eb-4153-9b98-44fc552d2310
+name: core-205-d
+mail: ari@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
